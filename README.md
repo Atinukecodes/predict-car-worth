@@ -12,3 +12,5 @@ Uncover the secrets behind car pricing with data-driven precision. This project 
   Insights into how age, weight, engine capacity, and transmission affect price
 
 Whether you're a data science enthusiast, automotive analyst, or just curious about what makes a car expensive, this repo delivers clarity and impact.
+
+Project overview: https://drive.google.com/file/d/1d9U--MJoX6wcnHlYeWSbhFZWhOPH3g2U/view?usp=sharing
